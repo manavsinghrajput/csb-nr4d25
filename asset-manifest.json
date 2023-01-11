@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "https://manavsinghrajput.github.io/csb-nr4d25/static/css/main.883ef32a.chunk.css",
+    "main.js": "https://manavsinghrajput.github.io/csb-nr4d25/static/js/main.a857ca54.chunk.js",
+    "main.js.map": "https://manavsinghrajput.github.io/csb-nr4d25/static/js/main.a857ca54.chunk.js.map",
+    "runtime-main.js": "https://manavsinghrajput.github.io/csb-nr4d25/static/js/runtime-main.4986b37b.js",
+    "runtime-main.js.map": "https://manavsinghrajput.github.io/csb-nr4d25/static/js/runtime-main.4986b37b.js.map",
+    "static/js/2.8442025f.chunk.js": "https://manavsinghrajput.github.io/csb-nr4d25/static/js/2.8442025f.chunk.js",
+    "static/js/2.8442025f.chunk.js.map": "https://manavsinghrajput.github.io/csb-nr4d25/static/js/2.8442025f.chunk.js.map",
+    "index.html": "https://manavsinghrajput.github.io/csb-nr4d25/index.html",
+    "static/css/main.883ef32a.chunk.css.map": "https://manavsinghrajput.github.io/csb-nr4d25/static/css/main.883ef32a.chunk.css.map",
+    "static/js/2.8442025f.chunk.js.LICENSE.txt": "https://manavsinghrajput.github.io/csb-nr4d25/static/js/2.8442025f.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.4986b37b.js",
+    "static/js/2.8442025f.chunk.js",
+    "static/css/main.883ef32a.chunk.css",
+    "static/js/main.a857ca54.chunk.js"
+  ]
+}
